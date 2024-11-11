@@ -1,2 +1,1 @@
-ABCDE
-HHHH
+C
